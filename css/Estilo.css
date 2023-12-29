@@ -1,0 +1,64 @@
+body{
+    background-image: url(../img/moutains-8445767_640.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main{
+    margin-top: 80px;
+}
+
+form{
+    background-color: rgba(255, 255, 255, 0.548);
+}
+
+form > h1{
+    font-weight: bold;
+}
+
+label{
+    position: relative;
+}
+
+i{
+    margin-top: 18px;
+    margin-left: 12px;
+    position: absolute;
+}
+
+i:hover{
+    cursor: pointer;
+}
+
+
+#labelUser{
+    padding-left: 33px;
+}
+
+#labelEmail{
+    padding-left: 33px;
+}
+
+#inputUser{
+    padding-left: 33px;
+}
+
+#inputEmail{
+    padding-left: 33px;
+}
+
+#inputPassaword1{
+    padding-left: 33px;
+}
+
+#inputPassaword2{
+    padding-left: 35px;
+}
+
+#labelSenha1{
+    margin-left: 20px;
+}
+
+#labelSenha2{
+    margin-left: 20px;
+}
